@@ -16,12 +16,6 @@ jobs:
         uses: devorein/github-readme-learn-section-notion@master
         with:
           database_id: "82aa327d58864e52af21e91ba12c8423"
-      - uses: "devorein/action-hashnode-blog@main"
-        with:
-          USERNAME: 'paradus-hex'
-          STYLE: blog-right
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
