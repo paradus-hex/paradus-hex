@@ -63,14 +63,13 @@ Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (R
 <h3 align="center"> Connect with Me at </h3>
 
 <p align="center">
-<a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-devorein00@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Devorein%232924-blue?style=flat&logo=discord"></a>
-<a href="https://www.reddit.com/user/dev0rein"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
+<a href="mailto:yaseen.nur.taz@g.bracu.ac.bd"><img alt="Email" src="https://img.shields.io/badge/Gmail-yaseen.nur.taz@g.bracu.ac.bd-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Paradus_Hex%232924-blue?style=flat&logo=discord"></a>
 <a href="https://twitter.com/devorein"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/safwan-shaheer-4b759a1bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yaseen-nur-taz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paradus_hex-blue?style=flat&logo=linkedin"></a>
 </p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paradus_Hex&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paradus_Hex&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Paradus_Hex :: Wakatime Stats" /></p>
 
 <p align="center">
    <table>
