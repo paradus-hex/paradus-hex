@@ -70,7 +70,7 @@ Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (R
 <a href="https://www.linkedin.com/in/safwan-shaheer-4b759a1bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
 </p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devorein&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paradus_Hex&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Devorein :: Wakatime Stats" /></p>
 
 <p align="center">
    <table>
