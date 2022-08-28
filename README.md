@@ -65,7 +65,7 @@ Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (R
 <p align="center">
 <a href="mailto:yaseen.nur.taz@g.bracu.ac.bd"><img alt="Email" src="https://img.shields.io/badge/Gmail-yaseen.nur.taz@g.bracu.ac.bd-red?style=flat&logo=gmail"></a>
 <a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Paradus_Hex%232924-blue?style=flat&logo=discord"></a>
-<a href="https://twitter.com/devorein"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
+<a href="https://twitter.com/hex_paradus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-paradus_hex-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/yaseen-nur-taz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paradus_hex-blue?style=flat&logo=linkedin"></a>
 </p>
   
