@@ -79,8 +79,8 @@ Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (R
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Devorein&show_icons=true&theme=dark"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devorein&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td><img alt="paradus-hex :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=paradus-hex&show_icons=true&theme=dark"> </td>
+       <td><img alt="paradus-hex :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradus-hex&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
    </table>
 </p>
