@@ -5,13 +5,12 @@
 
 
 
-Right now I'm fully immersed in Open Source, Full-stack web (P/MERNG), mobile (React Native), blockchain (Ethereum+Solidity+Truffle), DevOps (Docker, Kubernetes, Github Actions), Cloud (AWS, GCP, DigitalOcean), Data Science (Numpy, Matplotlib, Pandas and Seaborn) and NLP (nltk).
+Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (Scikit-learn), Deep learning and NLP (python).
 
-- 🔭 I’m currently working on ... [reinforz](https://github.com/NLP-practitioners/reinforz)
-- 🌱 I’m currently learning ... 
+- 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz/)
+- 🌱 I’m currently learning ... Mobile Development (React-Native) and Deep learning (Python)
 - 👯 I’m looking to collaborate on ... Any ambitious Web, Data Science or NLP/ML Project/Library.
-- 💬 Ask me about ... Web Development, Data Science, Fitness, Valorant, Cricket
-- ⚡ Fun fact: ...
+- 💬 Ask me about ... Web Development, Data Science, AI, Fitness, Valorant, Cricket!
 
 <h2 align="center">Current Knowledge</h2>
 <!--START_SECTION:learn-->
