@@ -93,26 +93,27 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paradus_Hex&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Paradus_Hex :: Wakatime Stats" /></p>
 
 <p align="center">
-   <h2 align="center">Fun Statistics About Me</h2>
+   <h2 align="center">My Stats</h2>
 
 <table align="center">
      <tr>
-       <th>Profile stats  </th>
-       <td><img align="center" alt="Paradus :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=paradus-hex&show_icons=true&theme=dark"> </td>
+       <th>Stackoverflow Badge</th>
+       <td><div align="center">
+        <img src="https://stackoverflow.com/users/flair/16585114.png?theme=dark" alt="Paradus's Stackoverflow Badge"/>
+    </div>
+    </td>
      </tr>
       <tr>
        <th>Language Contribution</th>
        <td><div align="center"> <img align="center" alt="Paradus :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradus-hex&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </div></td>
      </tr>
      <tr>
-       <th>Stackoverflow Badge</th>
-       <td><div align="center">
-   <img src="https://stackoverflow.com/users/flair/16585114.png?theme=dark" alt="Paradus's Stackoverflow Badge"/>
-</div></td>
-     </tr>
-     <tr>
        <th>Wakatime stats</th>
        <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paradus_Hex&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="imoxto :: Wakatime Stats" /></td>
+     </tr>
+     <tr>
+       <th>Profile stats  </th>
+       <td><img align="center" alt="Paradus :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=paradus-hex&show_icons=true&theme=dark"> </td>
      </tr>
 </table>
 </p>
