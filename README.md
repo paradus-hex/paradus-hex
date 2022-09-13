@@ -58,6 +58,21 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+Cg==" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
+<h2 align="center">You can catch me at</h2>
+<p align="center">
+  <a href="https://stackoverflow.com/users/16585114/hex-paradus">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="xImouto's Stack Overflow Profile" height="30" width="30">
+  </a>
+  <a href="https://replit.com/@YaseenNur">
+    <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="xImouto's Repl.it Profile" height="30" width="30">
+  </a>
+  <a href="https://www.showwcase.com/paradus-hex826">
+    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="xImouto's Showwcase Profile" height="30" width="30"/>
+  </a>
+  <a href="https://wakatime.com/@Paradus_Hex">
+    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="xImouto's Wakatime Profile" height="30" width="30">
+  </a>
+</p>
 
 <h3 align="center"> Connect with Me at </h3>
 
@@ -67,6 +82,8 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
 <a href="https://twitter.com/hex_paradus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-paradus_hex-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/yaseen-nur-taz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paradus_hex-blue?style=flat&logo=linkedin"></a>
 </p>
+
+<img src="https://wakatime.com/badge/user/42bd5b89-7940-4329-af4b-51e2161a8828.svg" alt="Yaseen's wakatime badge"/>
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paradus_Hex&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Paradus_Hex :: Wakatime Stats" /></p>
 
