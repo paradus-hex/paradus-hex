@@ -87,12 +87,6 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/42bd5b89-7940-4329-af4b-51e2161a8828.svg" alt="Yaseen's wakatime badge"/>
- </p>
-  
-
-
-<p align="center">
    <h2 align="center">Fun Stats</h2>
 
 <table align="center">
