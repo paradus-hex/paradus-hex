@@ -90,12 +90,19 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
   <img src="https://wakatime.com/badge/user/42bd5b89-7940-4329-af4b-51e2161a8828.svg" alt="Yaseen's wakatime badge"/>
  </p>
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Paradus_Hex&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Paradus_Hex :: Wakatime Stats" /></p>
+
 
 <p align="center">
    <h2 align="center">Fun Stats</h2>
 
 <table align="center">
+    <tr>
+       <th>Wakatime Badge</th>
+       <td><div align="center">
+        <img src="https://wakatime.com/badge/user/42bd5b89-7940-4329-af4b-51e2161a8828.svg" alt="Yaseen's wakatime badge"/>
+    </div>
+    </td>
+     </tr>
      <tr>
        <th>Stackoverflow Badge</th>
        <td><div align="center">
