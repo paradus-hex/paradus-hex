@@ -5,7 +5,7 @@
 
 
 
-Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (Scikit-learn), Deep learning and NLP (python).
+React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Scikit-learn), Deep learning (TensorFlow) | Chess Enthusiast.
 
 - 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz/)
 - 🌱 I’m currently learning ... Mobile Development (React-Native) and Deep learning (Python)
