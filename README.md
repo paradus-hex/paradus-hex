@@ -60,7 +60,7 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+Cg==" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
-<h2 align="center">You can catch me at</h2>
+<h2 align="center">Find me on</h2>
 <p align="center">
   <a href="https://stackoverflow.com/users/16585114/hex-paradus">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="xImouto's Stack Overflow Profile" height="30" width="30">
@@ -79,7 +79,7 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
   </a>
 </p>
 
-<h3 align="center"> Connect with Me at </h3>
+<h3 align="center"> Contact me at </h3>
 
 <p align="center">
 <a href="mailto:yaseen.nur.taz@g.bracu.ac.bd"><img alt="Email" src="https://img.shields.io/badge/Gmail-yaseen.nur.taz@g.bracu.ac.bd-red?style=flat&logo=gmail"></a>
