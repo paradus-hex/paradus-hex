@@ -11,7 +11,8 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
 - 🌱 I’m currently learning ... Mobile Development (React-Native) and Deep learning (Python)
 - 👯 I’m looking to collaborate on ... Any ambitious Web, Data Science or NLP/ML Project/Library.
 - 💬 Ask me about ... Full stack web Development, Data Science, AI, Fitness, Valorant, Cricket and Chess!
-- 🔗 [Portfolio website](https://paradushex.vercel.app/) [Linktree](https://linktr.ee/yaseennur)
+- 👤 [Portfolio](https://paradushex.vercel.app/)
+- 🌳 [Linktree](https://linktr.ee/yaseennur)
 
 <h2 align="center">Current Knowledge</h2>
 <!--START_SECTION:learn-->
