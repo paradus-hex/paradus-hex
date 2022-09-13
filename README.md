@@ -2,9 +2,6 @@
 ### Hi there, Yaseen here 👋
 
 <h2 align="center">A little about me</h2>
-
-
-
 React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Scikit-learn), Deep learning (TensorFlow) | Chess Enthusiast.
 
 - 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz/)
@@ -14,14 +11,7 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
 - 👤 [Portfolio](https://paradushex.vercel.app/)
 - 🌳 [Linktree](https://linktr.ee/yaseennur)
 
-<h3 align="center"> Contact me at </h3>
 
-<p align="center">
-<a href="mailto:yaseen.nur.taz@g.bracu.ac.bd"><img alt="Email" src="https://img.shields.io/badge/Gmail-yaseen.nur.taz@g.bracu.ac.bd-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Paradus_Hex%232924-blue?style=flat&logo=discord"></a>
-<a href="https://twitter.com/hex_paradus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-paradus_hex-blue?style=flat&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/yaseen-nur-taz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paradus_hex-blue?style=flat&logo=linkedin"></a>
-</p>
 
 <h2 align="center">Current Knowledge</h2>
 <!--START_SECTION:learn-->
@@ -69,6 +59,15 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+Cg==" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
+<p align="center">
+<h3 align="center"> Contact me at </h3>
+<p align="center">
+<a href="mailto:yaseen.nur.taz@g.bracu.ac.bd"><img alt="Email" src="https://img.shields.io/badge/Gmail-yaseen.nur.taz@g.bracu.ac.bd-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Paradus_Hex%232924-blue?style=flat&logo=discord"></a>
+<a href="https://twitter.com/hex_paradus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-paradus_hex-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/yaseen-nur-taz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paradus_hex-blue?style=flat&logo=linkedin"></a>
+</p>
+
 <h2 align="center">Find me on</h2>
 <p align="center">
   <a href="https://stackoverflow.com/users/16585114/hex-paradus">
@@ -92,7 +91,6 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
 
 <p align="center">
    <h2 align="center">Fun Stats</h2>
-
 <table align="center">
     <tr>
        <th>Wakatime Badge</th>
