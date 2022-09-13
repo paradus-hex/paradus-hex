@@ -14,6 +14,15 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
 - 👤 [Portfolio](https://paradushex.vercel.app/)
 - 🌳 [Linktree](https://linktr.ee/yaseennur)
 
+<h3 align="center"> Contact me at </h3>
+
+<p align="center">
+<a href="mailto:yaseen.nur.taz@g.bracu.ac.bd"><img alt="Email" src="https://img.shields.io/badge/Gmail-yaseen.nur.taz@g.bracu.ac.bd-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Paradus_Hex%232924-blue?style=flat&logo=discord"></a>
+<a href="https://twitter.com/hex_paradus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-paradus_hex-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/yaseen-nur-taz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paradus_hex-blue?style=flat&logo=linkedin"></a>
+</p>
+
 <h2 align="center">Current Knowledge</h2>
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
@@ -79,14 +88,7 @@ React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Sci
   </a>
 </p>
 
-<h3 align="center"> Contact me at </h3>
 
-<p align="center">
-<a href="mailto:yaseen.nur.taz@g.bracu.ac.bd"><img alt="Email" src="https://img.shields.io/badge/Gmail-yaseen.nur.taz@g.bracu.ac.bd-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Paradus_Hex%232924-blue?style=flat&logo=discord"></a>
-<a href="https://twitter.com/hex_paradus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-paradus_hex-blue?style=flat&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/yaseen-nur-taz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-paradus_hex-blue?style=flat&logo=linkedin"></a>
-</p>
 
 <p align="center">
    <h2 align="center">Fun Stats</h2>
