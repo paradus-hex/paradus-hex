@@ -67,7 +67,10 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
     <img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="xImouto's Repl.it Profile" height="30" width="30">
   </a>
   <a href="https://www.showwcase.com/paradus-hex826">
-    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="xImouto's Showwcase Profile" height="30" width="30"/>
+    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="Yaseen's Showwcase Profile" height="30" width="30"/>
+  </a>
+   <a href="https://www.polywork.com/paradus_hex">
+    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/polywork.svg" alt="Yaseen's polywork Profile" height="30" width="30"/>
   </a>
   <a href="https://wakatime.com/@Paradus_Hex">
     <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="xImouto's Wakatime Profile" height="30" width="30">
