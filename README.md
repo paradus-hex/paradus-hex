@@ -10,7 +10,7 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
 - 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz/)
 - 🌱 I’m currently learning ... Mobile Development (React-Native) and Deep learning (Python)
 - 👯 I’m looking to collaborate on ... Any ambitious Web, Data Science or NLP/ML Project/Library.
-- 💬 Ask me about ... Web Development, Data Science, AI, Fitness, Valorant, Cricket!
+- 💬 Ask me about ... Full stack web Development, Data Science, AI, Fitness, Valorant, Cricket!
 
 <h2 align="center">Current Knowledge</h2>
 <!--START_SECTION:learn-->
