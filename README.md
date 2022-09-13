@@ -107,7 +107,7 @@ Full-stack Developer (M/PERN Stack) | Currently engrossed in Machine learning (S
      <tr>
        <th>Stackoverflow Badge</th>
        <td><div align="center">
-   <img src="https://stackoverflow.com/users/flair/17934277.png?theme=dark" alt="imoxto's Stackoverflow Badge"/>
+   <img src="https://stackoverflow.com/users/flair/16585114.png?theme=dark" alt="Paradus's Stackoverflow Badge"/>
 </div></td>
      </tr>
      <tr>
