@@ -2,7 +2,7 @@
 ### Hi there, Yaseen here 👋
 
 <h2 align="center">A little about me</h2>
-React Developer with Fullstack Experience (M/PERN Stack) | Machine learning (Scikit-learn), Deep learning (TensorFlow) | Chess Enthusiast.
+FullStack Developer (M/PERN/tRPC Stack) | AI (Machine learning, Deep learning, NLP and LLMS) | Chess Enthusiast.
 
 - 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz/)
 - 🌱 I’m currently learning ... Mobile Development (React-Native) and Deep learning (Python)
